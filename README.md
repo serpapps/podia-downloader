@@ -1,10 +1,6 @@
 # Podia Downloader
 
-> Download Podia courses, digital downloads, and webinar replays
-
-![Podia Downloader](https://raw.githubusercontent.com/serpapps/podia-downloader/assets/images/podia-downloader.gif)
-
-Podia Downloader is a powerful tool that helps you download content from Podia instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Download Podia course videos for convenient offline viewing or safe backups 
 
 ## 🔗 Links
 
@@ -20,40 +16,14 @@ Podia Downloader is a powerful tool that helps you download content from Podia i
 - 🛒 [Shop](https://serp.ly/@serp/store)
 - 🎓 [Courses](https://serp.ly/@serp/courses)
 
-## Features
 
-- Stream-to-file conversion
-- HD quality downloads
-- Batch download support
-- Resume interrupted downloads
-- No watermarks
-- Content extraction
 
-## Installation Instructions
 
-1. Clone the repository: git clone https://github.com/serpapps/podia-downloader
-2. Install dependencies
-3. Configure settings
-4. Run the application
 
-## Usage Instructions
+## Related
 
-1. Open the application
-2. Enter the URL of the content you want to download
-3. Select your preferred quality and format
-4. Click download to start the process
-5. Files will be saved to your specified directory
-
-## Technologies
-
-- Python
-- JavaScript
-- Node.js
-- Automation
-
-## More Info
-
-- 📁 Repository [here](https://github.com/serpapps/podia-downloader)
+- [Repository](https://github.com/serpapps/podia-downloader)
+- [How to Download Podia Videos (Cloudflare Stream Videos)](https://gist.github.com/devinschumacher/f198684d229ed7ca299e6e7dd41c1017)
 
 <details>
 <summary>Keywords</summary>
