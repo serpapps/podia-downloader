@@ -1,4 +1,4 @@
-# Podia Downloader
+# Podia Downloader (Browser Extension - Chrome, Firefox, Edge, Opera)
 
 Download Podia course videos for convenient offline viewing or safe backups 
 
